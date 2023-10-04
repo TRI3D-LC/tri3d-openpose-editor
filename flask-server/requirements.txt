@@ -1,0 +1,15 @@
+boto3
+flask-cors
+pillow
+flask
+python-dotenv
+numpy
+opencv-python
+torch
+huggingface_hub
+diffusers
+controlnet_aux
+torchvision
+lmdb
+tensorfn
+config
