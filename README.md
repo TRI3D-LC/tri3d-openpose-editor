@@ -1,6 +1,10 @@
 # tri3d-openpose-editor
 NextJS application to upload an image, extract the open pose and edit the keypoints.
 
+
+<img width="1046" alt="Screenshot 2023-10-04 at 8 42 01 AM" src="https://github.com/TRI3D-LC/tri3d-openpose-editor/assets/120464367/ba175235-d3c6-4a30-b1fc-a49c5dfb8c7b">
+
+
 # setting up nextJS application
 cd my-app
 npm install 
@@ -16,4 +20,4 @@ flask run
 
 open - 127.0.0.1:3000/
 
-![Men_denim_square](https://github.com/TRI3D-LC/tri3d-openpose-editor/assets/120464367/6b6190da-b046-4386-b761-28dc399d3964)
+
