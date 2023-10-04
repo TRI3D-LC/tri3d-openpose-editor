@@ -15,3 +15,5 @@ export FLASK_APP=main (SET for windows)
 flask run
 
 open - 127.0.0.1:3000/
+
+![Men_denim_square](https://github.com/TRI3D-LC/tri3d-openpose-editor/assets/120464367/6b6190da-b046-4386-b761-28dc399d3964)
